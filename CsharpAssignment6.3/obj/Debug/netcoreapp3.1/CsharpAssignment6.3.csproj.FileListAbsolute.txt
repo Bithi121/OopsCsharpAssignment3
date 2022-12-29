@@ -1,0 +1,13 @@
+C:\Users\BITTALUK\source\repos\CsharpAssignment6.3\CsharpAssignment6.3\bin\Debug\netcoreapp3.1\CsharpAssignment6.3.exe
+C:\Users\BITTALUK\source\repos\CsharpAssignment6.3\CsharpAssignment6.3\bin\Debug\netcoreapp3.1\CsharpAssignment6.3.deps.json
+C:\Users\BITTALUK\source\repos\CsharpAssignment6.3\CsharpAssignment6.3\bin\Debug\netcoreapp3.1\CsharpAssignment6.3.runtimeconfig.json
+C:\Users\BITTALUK\source\repos\CsharpAssignment6.3\CsharpAssignment6.3\bin\Debug\netcoreapp3.1\CsharpAssignment6.3.runtimeconfig.dev.json
+C:\Users\BITTALUK\source\repos\CsharpAssignment6.3\CsharpAssignment6.3\bin\Debug\netcoreapp3.1\CsharpAssignment6.3.dll
+C:\Users\BITTALUK\source\repos\CsharpAssignment6.3\CsharpAssignment6.3\bin\Debug\netcoreapp3.1\CsharpAssignment6.3.pdb
+C:\Users\BITTALUK\source\repos\CsharpAssignment6.3\CsharpAssignment6.3\obj\Debug\netcoreapp3.1\CsharpAssignment6.3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BITTALUK\source\repos\CsharpAssignment6.3\CsharpAssignment6.3\obj\Debug\netcoreapp3.1\CsharpAssignment6.3.AssemblyInfoInputs.cache
+C:\Users\BITTALUK\source\repos\CsharpAssignment6.3\CsharpAssignment6.3\obj\Debug\netcoreapp3.1\CsharpAssignment6.3.AssemblyInfo.cs
+C:\Users\BITTALUK\source\repos\CsharpAssignment6.3\CsharpAssignment6.3\obj\Debug\netcoreapp3.1\CsharpAssignment6.3.csproj.CoreCompileInputs.cache
+C:\Users\BITTALUK\source\repos\CsharpAssignment6.3\CsharpAssignment6.3\obj\Debug\netcoreapp3.1\CsharpAssignment6.3.dll
+C:\Users\BITTALUK\source\repos\CsharpAssignment6.3\CsharpAssignment6.3\obj\Debug\netcoreapp3.1\CsharpAssignment6.3.pdb
+C:\Users\BITTALUK\source\repos\CsharpAssignment6.3\CsharpAssignment6.3\obj\Debug\netcoreapp3.1\CsharpAssignment6.3.genruntimeconfig.cache

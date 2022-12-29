@@ -1,0 +1,14 @@
+C:\Users\BITTALUK\source\repos\csharpassignment5_3\csharpassignment5_3\bin\Debug\netcoreapp3.1\csharpassignment5_3.exe
+C:\Users\BITTALUK\source\repos\csharpassignment5_3\csharpassignment5_3\bin\Debug\netcoreapp3.1\csharpassignment5_3.deps.json
+C:\Users\BITTALUK\source\repos\csharpassignment5_3\csharpassignment5_3\bin\Debug\netcoreapp3.1\csharpassignment5_3.runtimeconfig.json
+C:\Users\BITTALUK\source\repos\csharpassignment5_3\csharpassignment5_3\bin\Debug\netcoreapp3.1\csharpassignment5_3.runtimeconfig.dev.json
+C:\Users\BITTALUK\source\repos\csharpassignment5_3\csharpassignment5_3\bin\Debug\netcoreapp3.1\csharpassignment5_3.dll
+C:\Users\BITTALUK\source\repos\csharpassignment5_3\csharpassignment5_3\bin\Debug\netcoreapp3.1\csharpassignment5_3.pdb
+C:\Users\BITTALUK\source\repos\csharpassignment5_3\csharpassignment5_3\obj\Debug\netcoreapp3.1\csharpassignment5_3.csproj.AssemblyReference.cache
+C:\Users\BITTALUK\source\repos\csharpassignment5_3\csharpassignment5_3\obj\Debug\netcoreapp3.1\csharpassignment5_3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BITTALUK\source\repos\csharpassignment5_3\csharpassignment5_3\obj\Debug\netcoreapp3.1\csharpassignment5_3.AssemblyInfoInputs.cache
+C:\Users\BITTALUK\source\repos\csharpassignment5_3\csharpassignment5_3\obj\Debug\netcoreapp3.1\csharpassignment5_3.AssemblyInfo.cs
+C:\Users\BITTALUK\source\repos\csharpassignment5_3\csharpassignment5_3\obj\Debug\netcoreapp3.1\csharpassignment5_3.csproj.CoreCompileInputs.cache
+C:\Users\BITTALUK\source\repos\csharpassignment5_3\csharpassignment5_3\obj\Debug\netcoreapp3.1\csharpassignment5_3.dll
+C:\Users\BITTALUK\source\repos\csharpassignment5_3\csharpassignment5_3\obj\Debug\netcoreapp3.1\csharpassignment5_3.pdb
+C:\Users\BITTALUK\source\repos\csharpassignment5_3\csharpassignment5_3\obj\Debug\netcoreapp3.1\csharpassignment5_3.genruntimeconfig.cache
